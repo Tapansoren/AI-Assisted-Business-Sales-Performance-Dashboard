@@ -5,7 +5,7 @@ This project demonstrates the development of an executive-level interactive Busi
 
 The objective of this project is to provide a 360° view of business performance through interactive visualizations and meaningful business insights.
 
-Business Objectives
+# Business Objectives
 
 The dashboard focuses on:
 
@@ -14,13 +14,13 @@ Customer Insights
 Product Performance
 Geographic Sales Trends
 Payment Behavior Analysis
-Dataset
+# Dataset
 
 The project uses two datasets:
 
 Details.csv
 Orders.csv
-Data Preparation
+# Data Preparation
 
 Performed:
 
@@ -32,14 +32,14 @@ Quarter
 Year
 Average Order Value (AOV)
 Profit Margin Calculation
-Dashboard KPIs
+# Dashboard KPIs
 Total Revenue
 Total Profit
 Total Orders
 Total Quantity Sold
 Average Order Value (AOV)
 Profit Percentage
-Interactive Features
+# Interactive Features
 Month Filter
 Category Filter
 State Filter
@@ -47,7 +47,7 @@ Drill Down
 Cross Filtering
 Dynamic Visual Interaction
 Tooltips
-Dashboard Visualizations
+# Dashboard Visualizations
 Revenue Trend
 Profit Analysis
 Category Performance
@@ -55,7 +55,7 @@ State-wise Sales
 Payment Mode Analysis
 Customer Insights
 KPI Cards
-Key Business Insights
+# Key Business Insights
 
 The dashboard enables users to:
 
@@ -65,20 +65,20 @@ Identify top-performing products
 Analyze customer purchasing behavior
 Track payment method preferences
 Support business decision-making through interactive reporting
-Tools & Technologies
+# Tools & Technologies
 Power BI
 DAX
 Power Query
 Microsoft Excel
 AI-assisted Dashboard Planning (Claude AI)
-My Contribution
+# My Contribution
 Defined business requirements and dashboard objectives.
 Designed KPI structure and reporting requirements.
 Used AI-assisted prompt engineering to accelerate dashboard development.
 Reviewed and validated dashboard outputs.
 Verified KPI calculations and business insights.
 Refined dashboard layout for executive reporting.
-Skills Demonstrated
+# Skills Demonstrated
 Business Intelligence
 Dashboard Design
 Data Visualization
